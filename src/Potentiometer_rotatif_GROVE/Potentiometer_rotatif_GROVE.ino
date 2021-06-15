@@ -1,5 +1,5 @@
 /*
-    ** Mesure Angle (0° à 300°) Potemtiometre module Grove **
+    ** Mesure Angle (0° à 300°) Potentiometre module Grove **
        PIN A0 Module shield GROVE
        Baud rate 9600 -> Moniteur série
 */
